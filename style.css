@@ -1,0 +1,21 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    text-shadow: 5px 5px 5px grey;
+}
+#status
+{
+    font-size: 20px;
+    text-shadow: 5px 5px 5px grey;
+}
+#name1
+{
+    text-shadow: 5px 5px 5px grey;
+}

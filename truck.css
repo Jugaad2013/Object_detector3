@@ -1,0 +1,13 @@
+body
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#fruit_back
+{
+    float: right;
+}
+canvas
+{
+    margin-top: 120px;
+}
